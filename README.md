@@ -63,8 +63,11 @@ The project structure separates different functionalities into various modules:
 <a href="#">▲Back</a>
 
 ## Usage
-### add this later
-
+1. Set up a server and run the application on it, or simply turn on your laptop and execute the main.py file. The first time you run the main.py file, a window will appear, prompting you to enter your username and password associated with your samad.aut.ac.ir account:
+    <img src="./images/page1.png" alt="page1" width="100%" />
+2. After entering your password and username, click on the `Proceed to Schedule` button. Another page will appear, allowing you to choose your preferred gym sessions for automation and click on `Next` button:
+    <img src="./images/page1.png" alt="page1" width="100%" />
+3. Now the automation process will start automatically and you can see the results in `Logs` directory.
 <a href="#">▲Back</a>
 
 ## Contributing
