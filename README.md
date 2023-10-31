@@ -63,8 +63,20 @@ The project structure separates different functionalities into various modules:
 <a href="#">▲Back</a>
 
 ## Usage
-### add this later
+1. Set up a server and run the application on it, or simply turn on your laptop and execute the main.py file. The first time you run the main.py file, a window will appear, prompting you to enter your username and password associated with your samad.aut.ac.ir account:
+   
+    <img src="./images/page1.png" alt="page1" width="100%" height=600px />
 
+    
+2. After entering your password and username, click on the `Proceed to Schedule` button. Another page will appear, allowing you to choose your preferred gym sessions for automation and click on `Next` button:
+   
+    <img src="./images/page2.png" alt="page2" width="100%" />
+
+    
+3. Now the automation process will start automatically and you can see the results in `Logs` directory.
+
+4. [Optional] You can add `main.py` to start up in your ubuntu `crontab`, there are also alternative ways for windows.
+   
 <a href="#">▲Back</a>
 
 ## Contributing
@@ -78,5 +90,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 <a href="#">▲Back</a>
 
 <div align="center">
-    Made with ❤️ by <a href=https://github.com/<YOUR-USERNAME>><YOUR-USERNAME></a>
+    Made with ❤️ by <a href=https://github.com/<YOUR-USERNAME>><saeed-at></a>
 </div>
