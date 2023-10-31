@@ -60,7 +60,7 @@ The project structure separates different functionalities into various modules:
 - `logger.py`: Sets up logging configurations to manage logs in the application.
 - `styles.py`: Contains various style configurations for PyQt5 widgets used in the GUI.
 
- href="#">▲Back</a>
+<a href="#">▲Back</a>
 
 ## Usage
 ### add this later
