@@ -1,0 +1,11 @@
+2023-10-31 19:29:05,309 - ERROR - First Run the application and enter your username, password, and preferred sessions. Then run the code again.
+2023-10-31 19:36:29,410 - ERROR - First Run the application and enter your username, password, and preferred sessions. Then run the code again.
+2023-10-31 19:39:37,442 - ERROR - First Run the application and enter your username, password, and preferred sessions. Then run the code again.
+2023-10-31 19:40:02,309 - INFO - New reservation table has been released.
+2023-10-31 19:40:02,328 - INFO - Reservation already made for thursday(15-16:35).
+2023-10-31 19:40:02,328 - INFO - All preferred sessions have been reserved!
+2023-10-31 19:40:17,911 - ERROR - First Run the application and enter your username, password, and preferred sessions. Then run the code again.
+2023-10-31 19:40:36,636 - INFO - New reservation table has been released.
+2023-10-31 19:40:36,655 - INFO - Reservation already made for thursday(15-16:35).
+2023-10-31 19:40:36,656 - INFO - All preferred sessions have been reserved!
+2023-10-31 19:53:48,119 - ERROR - Please run the application, enter your username, password, and preferred sessions.
