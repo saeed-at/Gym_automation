@@ -75,7 +75,7 @@ The project structure separates different functionalities into various modules:
     
 3. Now the automation process will start automatically and you can see the results in `Logs` directory.
 
-4. [Optional] You can add `main.py` to start up in your ubuntu `crontab`, there are also alternative ways for windows.
+4. [Optional] You can add `main.py` to start up in your ubuntu with `crontab`, there are also alternative ways for windows.
    
 <a href="#">▲Back</a>
 
