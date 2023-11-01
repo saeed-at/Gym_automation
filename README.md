@@ -18,6 +18,15 @@ A Gym Automation project designed to book preferred gym sessions within the [AUT
 
 ## Table of Contents
 
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Prerequisites](#prerequisites)
+    - [Installation and Environment Setup](#installation-and-environment-setup)
+    - [ChromeDriver Setup](#chromedriver-setup)
+4. [Project Structure](#project-structure)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Introduction
 
@@ -75,7 +84,7 @@ The project structure separates different functionalities into various modules:
     
 3. Now the automation process will start automatically and you can see the results in `Logs` directory.
 
-4. [Optional] You can add `main.py` to start up in your ubuntu `crontab`, there are also alternative ways for windows.
+4. [Optional] You can add `main.py` to start up in your ubuntu with `crontab`, there are also alternative ways for windows.
    
 <a href="#">▲Back</a>
 
@@ -90,5 +99,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 <a href="#">▲Back</a>
 
 <div align="center">
-    Made with ❤️ by <a href=https://github.com/<YOUR-USERNAME>><saeed-at></a>
+    Made with ❤️ by <a href=https://github.com/saeed-at>saeed-at</a>
 </div>
+
