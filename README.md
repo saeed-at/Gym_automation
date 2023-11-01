@@ -18,6 +18,15 @@ A Gym Automation project designed to book preferred gym sessions within the [AUT
 
 ## Table of Contents
 
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Prerequisites](#prerequisites)
+    - [Installation and Environment Setup](#installation-and-environment-setup)
+    - [ChromeDriver Setup](#chromedriver-setup)
+4. [Project Structure](#project-structure)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Introduction
 
