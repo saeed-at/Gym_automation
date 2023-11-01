@@ -53,6 +53,7 @@ class GymReservation:
         options = webdriver.ChromeOptions()
         options.add_argument('headless')
         self.driver = webdriver.Chrome(service=service, options=options)
+        self.driver.maximize_window()
 
     def log_in(self):
         """
