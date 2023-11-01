@@ -90,5 +90,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 <a href="#">▲Back</a>
 
 <div align="center">
-    Made with ❤️ by <a href=https://github.com/<YOUR-USERNAME>><saeed-at></a>
+    Made with ❤️ by <a href=https://github.com/saeed-at>saeed-at</a>
 </div>
+
